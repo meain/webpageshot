@@ -1,0 +1,22 @@
+{
+  "name": "webpageshot",
+  "version": "1.0.5",
+  "description": "Take a screenshot of a webpage",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "bin": {
+    "webpageshot": "./index.js"
+  },
+  "keywords": [
+    "screenshot",
+    "webpage"
+  ],
+  "author": "Abin Simon <abinsimon10@gmail.com> (meain.io)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "puppeteer": "^1.13.0"
+  }
+}
