@@ -9,6 +9,12 @@ Command like thingy to take a screenshot of a webpage
 npm install -g webpageshot
 ```
 
+or even use with `npx` directly without installing
+
+```
+npx webpageshot -u https://meain.io -O meain.png
+```
+
 ## Usage
 
 ```
