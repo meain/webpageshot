@@ -1,4 +1,4 @@
-# Webpageshot
+# Webpageshot [![npm version](https://badge.fury.io/js/webpageshot.svg)](https://badge.fury.io/js/webpageshot)
 
 Command like thingy to take a screenshot of a webpage
 
