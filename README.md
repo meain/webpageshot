@@ -30,5 +30,5 @@ Options:
 #### Example
 
 ```
-webpageshot -u https://meain.io -O meain.png
+webpageshot -u https://github.com/meain/webpageshot -O webpageshot.png
 ```
