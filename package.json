@@ -17,7 +17,7 @@
   "author": "Abin Simon <abinsimon10@gmail.com> (meain.io)",
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.19.0",
-    "puppeteer": "^1.13.0"
+    "commander": "^5.0.0",
+    "puppeteer": "^3.0.0"
   }
 }
