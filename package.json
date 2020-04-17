@@ -4,7 +4,8 @@
   "description": "Take a screenshot of a webpage",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "run": "node index.js",
+    "test": "node index.js -u 'https://example.com' -O example.png && [ -s example.png ]"
   },
   "bin": {
     "webpageshot": "./index.js"
